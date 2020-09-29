@@ -1,0 +1,426 @@
+html {
+  height: 100%;
+  overflow-x: : scroll;
+}
+
+body {
+  background-color: white;
+}
+
+.box {
+  background-color: black;
+  position: relative;
+  margin-top: 0px;
+  position: center;
+  width: 1660px;
+  height: 845px;
+  z-index: -2;
+}
+
+
+.meet {
+  color: white;
+  font-family: 'Work Sans', sans-serif;
+  font-size: 250px;
+  font-weight: 300;
+  position: absolute;
+  width: 681px;
+  height: 277px;
+  left: 176px;
+  top: 98px;
+
+}
+
+.jas {
+  color: white;
+  font-family: 'Work Sans', sans-serif;
+  font-size: 250px;
+  font-weight: 300;
+  position: absolute;
+  width: 544px;
+  height: 254px;
+  left: 884px;
+  top: 441px;
+}
+
+
+.intro {
+  color: white;
+  font-family: 'Work Sans', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 21px;
+  position: absolute;
+  width: 421px;
+  height: 45px;
+  left: 285px;
+  top: 411px;
+}
+
+.scroll {
+  color: white;
+  font-family: 'Work Sans', sans-serif;
+  font-style: normal;
+  font-weight: 200;
+  font-size: 18px;
+  line-height: 21px;
+  position: absolute;
+  width: 337px;
+  height: 41px;
+  left: 285px;
+  top: 482px;
+}
+ 
+ .bathroom {
+  position: absolute;
+  width: 620px;
+  height: 669px;
+  left: 968px;
+  top: 175px;
+  z-index: -1;
+  background: url(assets/photos/bathroom.png);
+  background-size: 100%;
+}
+
+.grey-blue {
+  position: absolute;
+  width: 234px;
+  height: 302px;
+  left: 623px;
+  top: -53px;
+  z-index: -1;
+  background: url(assets/photos/greyblue.png);
+  background-size: 100%;
+}
+
+ .back {
+  position: relative;
+  width: 425px;
+  height: 423px;
+  left: 281px;
+  top: 587px;
+}
+
+.box2 {
+  color: white;
+  position: relative;
+  width: 1660px;
+  height: 572px;
+  left: 0px;
+  top: 871px;
+}
+
+.orange-purple {
+  position: relative;
+  width: 403px;
+  height: 273px;
+  left: 481px;
+  bottom: 203px;
+}
+
+.black-text {
+  position: relative;
+  width: 337px;
+  height: 244px;
+  left: 544px;
+  bottom: 446px;
+}
+
+
+.question-1 {
+  font-family: Work Sans;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  height: 30px;
+  width: 700px; 
+  position: absolute;
+  width: 647px;
+  height: 42px;
+  left: 533px;
+  top: 1434px;
+}
+
+.answer-1 {
+	font-family: Work Sans;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 20px;
+  position: absolute;
+  width: 647px;
+  height: 248px;
+  left: 533px;
+  top: 1499px;
+}
+
+.question-2 {
+  font-family: Work Sans;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  height: 30px;
+  width: 700px; 
+  position: absolute;
+  width: 647px;
+  height: 22px;
+  left: 533px;
+  top: 1881px;
+}
+
+.answer-2 {
+  font-family: Work Sans;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 20px;
+  position: absolute;
+  width: 647px;
+  height: 49px;
+  left: 533px;
+  top: 1918px;
+
+}
+
+.question-3 {
+  font-family: Work Sans;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  height: 30px;
+  width: 700px; 
+  position: absolute;
+  width: 647px;
+  height: 22px;
+  left: 533px;
+  top: 2051px;
+}
+
+.answer-3 {
+  font-family: Work Sans;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 20px;
+  position: absolute;
+  width: 647px;
+  height: 49px;
+  left: 533px;
+  top: 2086px;  
+}
+
+.question-4 {
+  font-family: Work Sans;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  height: 30px;
+  width: 700px; 
+  position: absolute;
+  width: 647px;
+  height: 48px;
+  left: 533px;
+  top: 2219px;
+}
+
+.answer-4 {
+  font-family: Work Sans;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 20px;
+  position: absolute;
+  width: 647px;
+  height: 75px;
+  left: 533px;
+  top: 2280px;
+}
+
+.plastic-tree {
+  position: absolute;
+  width: 303px;
+  height: 306px;
+  left: 490px;
+  top: 2443px;
+}
+
+.coral {
+  position: absolute;
+  width: 344px;
+  height: 255px;
+  left: 934px;
+  top: 2439px;
+}
+
+.question-5 {
+  font-family: Work Sans;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  position: absolute;
+  width: 647px;
+  height: 48px;
+  left: 533px;
+  top: 2837px;
+}
+
+.answer-5 {
+  font-family: Work Sans;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 20px;
+  position: absolute;
+  width: 647px;
+  height: 75px;
+  left: 533px;
+  top: 2925px;
+}
+
+.question-6 {
+  font-family: Work Sans;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  position: absolute;
+  width: 647px;
+  height: 23px;
+  left: 533px;
+  top: 3073px;
+
+}
+
+.answer-6 {
+  font-family: Work Sans;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 20px;
+  position: absolute;
+  width: 647px;
+  height: 45px;
+  left: 533px;
+  top: 3112px;
+}
+
+.question-7 {
+  font-family: Work Sans;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  position: absolute;
+  width: 647px;
+  height: 23px;
+  left: 533px;
+  top: 3239px;
+}
+
+.answer-7 {
+  font-family: Work Sans;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 20px;
+  position: absolute;
+  width: 647px;
+  height: 45px;
+  left: 533px;
+  top: 3278px;
+}
+
+.question-8 {
+  font-family: Work Sans;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  position: absolute;
+  width: 647px;
+  height: 23px;
+  left: 533px;
+  top: 3406px;
+
+}
+
+.answer-8 {
+  font-family: Work Sans;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 20px;
+  position: absolute;
+  width: 647px;
+  height: 45px;
+  left: 533px;
+  top: 3469px;
+}
+.question-9 {
+  font-family: Work Sans;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  position: absolute;
+  width: 647px;
+  height: 23px;
+  left: 533px;
+  top: 3572px;
+
+}
+
+.answer-9 {
+  font-family: Work Sans;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 20px;
+  position: absolute;
+  width: 647px;
+  height: 45px;
+  left: 533px;
+  top: 3611px;
+}
+
+.box3 {
+  background-color: black;
+  position: absolute;
+  width: 1665px;
+  height: 121px;
+  left: 0px;
+  right: 0px;
+  top: 3771px;
+  z-index: -1;
+
+}
+
+.update {
+  color: white;
+  font-family: 'Work Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 21px;
+  position: absolute;
+  width: 332px;
+  height: 45px;
+  left: 424px;
+  top: 47px;
+
+}
+
+.website {
+  font-family: 'Work Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 21px;
+  position: absolute;
+  width: 118px;
+  height: 17px;
+  left: 840px;
+  top: 47px;
+}
+
+.instagram {
+  font-family: 'Work Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 21px;
+  position: absolute;
+  width: 159px;
+  height: 17px;
+  left: 250px;
+  bottom: 0px;
+}
+
